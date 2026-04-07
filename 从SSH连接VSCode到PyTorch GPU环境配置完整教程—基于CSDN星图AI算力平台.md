@@ -1,4 +1,4 @@
-# 从SSH连接VSCode到PyTorch GPU环境配置完整教程——基于CSDN星图AI平台
+# 从SSH连接VSCode到PyTorch GPU环境配置完整教程——基于(CSDN星图AI)[https://ai.csdn.net/]平台
 
 ---
 
